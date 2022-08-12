@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.toGetJokes{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.added-jokes{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.jokes-jar{
+    background-color: white;
+    padding: 5% 8%;
+}
+
+#jokes{
+    font-size: large;
+    font-weight: bold;
+}
